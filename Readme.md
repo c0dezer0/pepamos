@@ -1,6 +1,6 @@
 # Introduction
 
-	This project helps in faster dinin at restaurants. To accomplish this we have following plan :
+	
 	* Discover Restaurants
 	* Get the menu of that restaurant by location
 	* Order from the phone
@@ -9,8 +9,6 @@
 	* Payment integration for faster Checkout / Skip huge line.
 
 # To-Do
-
-	Following needs to be done in order to accomplish this:
 
 	## Restaurants
 	* Register Restaurants (name, address, phone, email, bank details, locations-lat-lng, category, pics, cost for 2, etc )
