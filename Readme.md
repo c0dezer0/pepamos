@@ -7,20 +7,20 @@
 * Payment integration for faster Checkout / Skip huge line.
 
 # To-Do
-## Restaurants
-* Register Restaurants (name, address, phone, email, bank details, locations-lat-lng, category, pics, cost for 2, etc )
-* Managed dashboard for Restaurants (Web App)
-* Dashboard for Overview (a page to get revenue overview, table info, lined up booking, users waiting and dinin in realtime)
-* Manage Menu, customise price, add items, delete items
-* Tab app for internal use for workers
+### Restaurants
+1. Register Restaurants (name, address, phone, email, bank details, locations-lat-lng, category, pics, cost for 2, etc )
+2. Managed dashboard for Restaurants (Web App)
+3. Dashboard for Overview (a page to get revenue overview, table info, lined up booking, users waiting and dinin in realtime)
+4. Manage Menu, customise price, add items, delete items
+5. Tab app for internal use for workers
 
-## User
-* Register Users (Name, contact, email, social login)
-* Location based Menu showing
-* ordering seamlessly with the menu provided
-* Notifications for order status
-* Payment after successful order placed
-* Feedback and pics if allowed 
+### User
+1. Register Users (Name, contact, email, social login)
+2. Location based Menu showing
+3. ordering seamlessly with the menu provided
+4. Notifications for order status
+5. Payment after successful order placed
+6. Feedback and pics if allowed 
 	
 
 # Technology stack
@@ -34,6 +34,7 @@
 * pepamose.herokuapp.com/ping
 
 # Developers
-Hitesh Dua <hiteshdua1@gmail.com>
-Manish Kumar <mail2manish15@gmail.com> 
+
+	Hitesh Dua <hiteshdua1@gmail.com>
+	Manish Kumar <mail2manish15@gmail.com> 
 
