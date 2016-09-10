@@ -1,6 +1,6 @@
 module.exports = {
     "db": {
-        "url": "mongodb://heroku:heroku@ds147995.mlab.com:47995/toppr-got",
+        "url": "mongodb://admin:admin@ds021346.mlab.com:21346/pepamose",
         "collection": "battles"
     },
     "port": process.env.PORT || '9000',
