@@ -30,11 +30,11 @@
 * React.js (Dashboards)
 
 # URL
-* pepamose.herokuapp.com
-* pepamose.herokuapp.com/ping
+* https://pepamos.herokuapp.com
+* https://pepamos.herokuapp.com/ping
 
 # Developers
 
-	Hitesh Dua <hiteshdua1@gmail.com>
-	Manish Kumar <mail2manish15@gmail.com> 
+Hitesh Dua <hiteshdua1@gmail.com>
+Manish Kumar <mail2manish15@gmail.com> 
 
