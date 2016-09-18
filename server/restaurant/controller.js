@@ -10,7 +10,7 @@ module.exports = {
         res.send(req.body);
 
     },
-    find: function(req, res) {
-
+    detail: function(req, res) {
+    	res.send("hotel details");
     }
 }
